@@ -1,0 +1,99 @@
+.con-one {
+    background-color: #1f2937;
+    display: flex;
+    height: 250px;
+    margin: auto;
+    align-content: space-between;
+}
+
+.upper {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    padding: 20px;
+}
+
+.upper-left, .upper-right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.logo {
+    font-size: 20px;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 16px;
+  }
+
+a {
+    /* this removes the line under our links */
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+  }
+
+.lower {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+    padding: 20px;
+}
+
+.lower-left {
+    align-items: center;
+    gap: 10px;
+    width: 400px;
+}
+
+.lower-right {
+    align-items: center;
+    gap: 10px;
+    width: 300px;
+    text-align: center;
+    padding: 50px 0 50px;
+    background-color: rgb(211, 200, 200);
+}
+
+.sign-up {
+    background-color: #3882F6;
+    border: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    width: 100px;
+  }
+
+  .web-aw {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 48px;
+    color: black;
+  }
+
+.container-two {
+    display: flex;
+    box-shadow: 0 0 8px rgba(0,0,0,.1);
+    margin: 2px;
+    justify-content: center;
+    height: 200px;
+    padding: 15px;
+  }
+
+.random {
+  display: flex;
+  padding: 10px;
+  justify-content: center;
+}
+
+
+
+

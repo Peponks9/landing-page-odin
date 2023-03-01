@@ -1,1 +1,2 @@
 # landing-page-odin
+The creation of the following landing page is intended to enforca and empower the actual student to put in practice all skills learned sof far on HTML + CSS and more specifically the flexbox model.
